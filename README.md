@@ -28,7 +28,9 @@ https://medium.com/@karthikpselvam13/this-new-analysis-will-make-you-rethink-abo
 ### File descriptions
 
 Readme.md (this file)
+
 Seattle_airbnb.ipynb (the python Notebook)
+
 data.zip file containing 
 * Calendar.csv (data file about booking information in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data
 * Listings.csv (data file about Information about the houses in Seattle). Data source — https://www.kaggle.com/airbnb/seattle/data
@@ -36,10 +38,16 @@ data.zip file containing
 ### Results
 Based on my analysis it is found that, 
 
-The peak season is from June to August and are lowest is from January to March
-The rates are higher on weekends
-Apartments and Houses comprise of about 90% of total listings
-Neighborhoods of Southeast Magnolia, Portage Bay and Westlake have highest mean price, while the neighborhoods of Rainier Beach, Olympic Hills and South Delridge have lowest mean prices
-Broadway, Belltown and Wallingford have highest listing counts, while neighborhoods of Roxhill, South Park and Pinehurst have lower listing counts
-Accommodation size (determined by number of bedrooms, how many people it accommodates, number of bathrooms) is by far the single biggest price influencer.
+The average price is at peak during JULY and is usually high between MAY and SEPTEMBER.
 
+The average price for an entire home/apartment is $155 per day/night
+The average price for a private room is $75 per day/night
+shared room costs around $47 per day/night
+
+Apartments/Houses comprise of about 2/3 of total listings
+30% of the listings are Private rooms
+
+Neighborhoods of Downtown, Magnolia, Inter bay and Capitol Hills are expensive and their average price is between $150 — $200 range.
+Rooms with cheaper rates are found in areas like Beacon Hill, Delridge, Rainier Valley, and Northgate with pricing around the $83 — $93 range.
+
+The key feature that impacts price more than other features is the Accommodates, which is the number of people the apartment can accomodate.
