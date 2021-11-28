@@ -2,6 +2,7 @@
 
 Writing my first ever Data Science Blog Post based on my analysis on Seattle Airbnb dataset
 
+![image](https://user-images.githubusercontent.com/49963817/143726740-88bb28ed-9449-499b-9eec-0889e4ca0925.png)
 
 ### Language:
 Python
