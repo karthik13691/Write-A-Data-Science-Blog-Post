@@ -20,7 +20,7 @@ Libraries:
 I anlyzed data and wrote a data scienc blog about it as part of the Udacity's  Data Scientist nanodegree. 
 I analyzed Seattle neighborhood's features and factors influencing Airbnb's rental prices.
 
-Here's an article posted on medium based on this analysis 
+Here's an article posted on medium based on this analysis, 
 
 https://medium.com/@karthikpselvam13/this-new-analysis-will-make-you-rethink-about-your-next-airbnb-booking-in-seattle-98646bbf2b5f
 
@@ -51,3 +51,12 @@ Neighborhoods of Downtown, Magnolia, Inter bay and Capitol Hills are expensive a
 Rooms with cheaper rates are found in areas like Beacon Hill, Delridge, Rainier Valley, and Northgate with pricing around the $83 — $93 range.
 
 The key feature that impacts price more than other features is the Accommodates, which is the number of people the apartment can accomodate.
+
+
+### Acknowledgement 
+UDACITY
+
+KAGGLE
+
+MEDIUM
+
