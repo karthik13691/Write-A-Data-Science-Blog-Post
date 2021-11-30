@@ -18,8 +18,8 @@ Libraries:
 * plotly.express
 
 ### Project motivation
-I anlyzed data and wrote a data scienc blog about it as part of the Udacity's  Data Scientist nanodegree. 
-I analyzed Seattle neighborhood's features and factors influencing Airbnb's rental prices.
+I analyzed Seattle's Airbnb data and wrote a data science blog about it as part of the Udacity's Data Scientist nanodegree. 
+Its mostly about Seattle neighborhood's features and factors influencing Airbnb's rental prices.
 
 Here's an article posted on medium based on this analysis, 
 
